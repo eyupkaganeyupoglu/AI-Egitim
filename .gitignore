@@ -1,8 +1,9 @@
-.venv/
+﻿.venv/
+DOCS/Arsiv/
 DOCS/Arşiv/
 __pycache__/
 *.py[cod]
-*$py.class
+*.class
 .pytest_cache/
 .coverage
 htmlcov/
