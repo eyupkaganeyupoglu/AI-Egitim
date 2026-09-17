@@ -1,10 +1,19 @@
-﻿.venv/
-DOCS/Arsiv/
-DOCS/Arşiv/
+﻿# Python Virtual Environment
+.venv/
+
+# Python Cache
 __pycache__/
 *.py[cod]
-*.class
+
+# Testing
 .pytest_cache/
-.coverage
-htmlcov/
+
+# Environment Variables & Secrets
 .env
+
+# Agent Configuration & Mentorship Rules
+AGENTS.md
+.agents/
+
+# Archives & Docs
+DOCS/Arşiv/
